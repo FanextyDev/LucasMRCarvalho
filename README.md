@@ -8,11 +8,15 @@ Recentemente, comecei a migrar para a área de programação e estou descobrindo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mateus-8b6311190/)
 
 # 📊 GitHub Stats:
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMRCarvalho&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMRCarvalho&layout=compact)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=FanextyDev&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanextyDev&layout=compact)
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" height="50" width="70" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
     <img align="center" alt="css3"  height="50" width="70" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
     <img align="center" alt="javaScript"  height="50" width="70" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animation">
+</p>
